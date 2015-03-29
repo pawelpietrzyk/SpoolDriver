@@ -1,0 +1,5 @@
+C:\Repo\SpoolDriver\SpoolDriver\obj\Debug\SpoolDriver.csprojResolveAssemblyReference.cache
+C:\Repo\SpoolDriver\SpoolDriver\bin\Debug\SpoolDriver.dll
+C:\Repo\SpoolDriver\SpoolDriver\bin\Debug\SpoolDriver.pdb
+C:\Repo\SpoolDriver\SpoolDriver\obj\Debug\SpoolDriver.dll
+C:\Repo\SpoolDriver\SpoolDriver\obj\Debug\SpoolDriver.pdb
